@@ -68,8 +68,10 @@
 <script src="vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
 <script src="vendor/jquery.wow.min.js" type="text/javascript"></script>
 <script src="vendor/swiper/js/swiper.jquery.min.js" type="text/javascript"></script>
-<script src="js/components/swiper.min.js" type="text/javascript"></script>
+<script src="js/components/swiper.js" type="text/javascript"></script>
 <!-- PAGE LEVEL SCRIPTS -->
 <script src="js/layout.min.js" type="text/javascript"></script>
 <script src="js/components/wow.min.js" type="text/javascript"></script>
+
+
 

@@ -17,7 +17,7 @@
 <link href="vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
 
 <!-- THEME STYLES -->
-<link href="css/layout.min.css" rel="stylesheet" type="text/css"/>
+<link href="css/layout.css" rel="stylesheet" type="text/css"/>
 
 
 <!-- CUSTOMIZED STYLES -->

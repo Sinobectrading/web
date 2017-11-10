@@ -9,7 +9,7 @@
 
             <!-- Logo -->
             <div class="logo">
-                <a class="logo-wrap" href="index.html">
+                <a class="logo-wrap" href="index.php">
                     <img class="logo-img logo-img-main" src="img/logo.png" alt="Asentus Logo">
                     <img class="logo-img logo-img-active" src="img/logo-dark.png" alt="Asentus Logo">
                 </a>
