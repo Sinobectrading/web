@@ -43,7 +43,7 @@
                             echo 'class="nav-item-child nav-item-hover active"';} else {
                                 echo 'class="nav-item-child nav-item-hover"';
                             } ?>
-                        href="products.php">Products</a>
+                        href="products.php">Products & Service</a>
                     </li>
                     <!-- <li class="nav-item"><a class="nav-item-child nav-item-hover" href="faq.html">FAQ</a></li> -->
                     <li class="nav-item">

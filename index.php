@@ -107,7 +107,7 @@
                             <i class="service-icon icon-badge"></i>
                         </div>
                         <div class="service-info">
-                            <h3>解决方案</h3>
+                            <h3>Solution</h3>
                             <p class="margin-b-5">我们是业内前100强的密切合作伙伴</p>
                         </div>
                         <a href="#" class="content-wrapper-link"></a>    
@@ -139,7 +139,7 @@
                             <i class="service-icon icon-speedometer"></i>
                         </div>
                         <div class="service-info">
-                            <h3>咨询</h3>
+                            <h3>Consulting</h3>
                             <p class="margin-b-5">我们的咨询团队由业内数位顶尖专家组成,为各行业用户提供完善的咨询业务</p>
                         </div>
                         <a href="#" class="content-wrapper-link"></a>    
@@ -153,7 +153,7 @@
                             <i class="service-icon icon-badge"></i>
                         </div>
                         <div class="service-info">
-                            <h3>物流</h3>
+                            <h3>Logistic</h3>
                             <p class="margin-b-5">我们的物流网络覆盖了全球100多个国家和地区</p>
                         </div>
                         <a href="#" class="content-wrapper-link"></a>    

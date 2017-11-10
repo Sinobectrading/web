@@ -45,11 +45,11 @@
                 </div>
             </div>
             <h3>
-                <a href="p1.php">Raw Material</a>
+                <a href="raw.php">Raw Material</a>
                 <!--  <span class="text-uppercase margin-l-20">Management</span> -->
             </h3>
             <p>铝棒, 铝锭, 矿石</p>
-            <a class="link" href="p1.php">Read More</a>
+            <a class="link" href="raw.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -61,11 +61,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">Aluminum</a>
+                <a href="aluminum.php">Aluminum</a>
                 <!--  <span class="text-uppercase margin-l-20">Developmeny</span> -->
             </h4>
             <p>铝材, 型材, 板材, 卷材</p>
-            <a class="link" href="p1.php">Read More</a>
+            <a class="link" href="aluminum.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -77,11 +77,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">Steel</a> 
+                <a href="steel.php">Steel</a> 
                 <!-- <span class="text-uppercase margin-l-20">Design</span> -->
             </h4>
             <p>碳素钢,不锈钢</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="steel.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -93,11 +93,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">Finished Products</a> 
+                <a href="finished.php">Finished Products</a> 
                 <!-- <span class="text-uppercase margin-l-20">Design</span> -->
             </h4>
             <p>建材, 装饰材料, 五金</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="finished.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
     </div>
@@ -126,11 +126,11 @@
                 </div>
             </div>
             <h4>
-                <a href="s1.php">加工</a>
+                <a href="fabc.php">Fabrication</a>
                 <!--  <span class="text-uppercase margin-l-20">Management</span> -->
             </h4>
             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-            <a class="link" href="s1.php">Read More</a>
+            <a class="link" href="fabc.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -144,11 +144,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">供应链</a>
+                <a href="chain.php">Supply Chain</a>
                 <!--  <span class="text-uppercase margin-l-20">Developmeny</span> -->
             </h4>
             <p>采购, 仓储, 运输, 库存管理</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="chain.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -160,11 +160,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">培训咨询</a> 
+                <a href="cont.php">Consultant</a> 
                 <!-- <span class="text-uppercase margin-l-20">Design</span> -->
             </h4>
             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="cont.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
     </div>
@@ -179,11 +179,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">一站式解决方案</a> 
+                <a href="os.php">One-Stop Solution</a> 
                 <!-- <span class="text-uppercase margin-l-20">Management</span> -->
             </h4>
             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="os.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -195,11 +195,11 @@
                 </div>
             </div>
             <h4>
-                <a href="#">设计研发</a> 
+                <a href="dev.php">Development</a> 
                 <!-- <span class="text-uppercase margin-l-20">Developmeny</span> -->
             </h4>
             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="dev.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
 
@@ -211,10 +211,10 @@
                 </div>
             </div>
             <h4>
-                <a href="#">Offshore</a> <!-- <span class="text-uppercase margin-l-20">Design</span> -->
+                <a href="offs.php">Offshore</a> <!-- <span class="text-uppercase margin-l-20">Design</span> -->
             </h4>
             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-            <a class="link" href="#">Read More</a>
+            <a class="link" href="offs.php">Read More</a>
         </div>
         <!-- End Our Exceptional Solutions -->
     </div>
